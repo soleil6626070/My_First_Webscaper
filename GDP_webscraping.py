@@ -1,3 +1,7 @@
+# Code no longer working as of 16th of March 2025.
+# Wikipedia removed column of interest & reformatted table
+# Raw data was foolishly not saved to file.
+
 # This program is a simple webscraping exercise. I will extract some data
 # from a table on wikipedia & then perform some simple manipulations for fun.
 
